@@ -4,5 +4,7 @@
 * [Description](/DESCRIPTION.md)
 * [Topics](/topics/README.md)
   * [Background and related work](/topics/background-and-related-work.md)
+  * [Potential applications](/topics/potential-applications.md)
+
 
 
