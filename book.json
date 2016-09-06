@@ -1,3 +1,9 @@
 {
+    "pluginsConfig": {
+        "lunr": {
+            "maxIndexSize": 1000000,
+            "ignoreSpecialCharacters": false
+        }
+    },
     "slug": "scientific-notations-for-the-digital-era"
 }
