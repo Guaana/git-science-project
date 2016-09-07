@@ -1,1 +1,1 @@
-{ "pluginsConfig": { "lunr": { "maxIndexSize": 1000000, "ignoreSpecialCharacters": false } }, "variables": { "slug": "scientific-notations-for-the-digital-era" }, "title": "Scientific notations for the digital era", "author": "Konrad Hinsen"}
+{ "pluginsConfig": {     "lunr": {         "maxIndexSize": 1000000,         "ignoreSpecialCharacters": false     } }, "variables": {     "slug": "scientific-notations-for-the-digital-era" }, "title": "Scientific notations for the digital era", "author": "Konrad Hinsen"}
